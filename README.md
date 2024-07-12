@@ -10,7 +10,7 @@
 # 示例
 ![p.png](p.png)
 
-# 贡献✨
+# Author✨
 
 <table>
   <tr>
