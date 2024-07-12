@@ -12,15 +12,11 @@
 
 # Author✨
 
-<table>
-  <tr>
-    <td align="center"><img src="pic2.jpg" width="150px;" alt=""/><br /><sub><b>youXoX</b></sub><br />
-  </tr>
+<img src="pic2.png" width="150px;">
 
 
 # 赞助💰
 本项目作者youXoX现在还是个穷苦技校生...
-
 如果觉得对各位司辰有帮助 可以通过二维码赞助哦(>////<)
 联系 wx: huozhehaolei2024
 
