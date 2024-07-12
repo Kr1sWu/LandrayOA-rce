@@ -14,5 +14,5 @@
 
 <table>
   <tr>
-    <td align="center"><img src="p2.jpg" width="150px;" alt=""/><br /><sub><b>youXoX</b></sub><br />
+    <td align="center"><img src="pic2.jpg" width="150px;" alt=""/><br /><sub><b>youXoX</b></sub><br />
   </tr>
