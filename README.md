@@ -11,9 +11,8 @@
 ![p.png](p.png)
 
 # Author✨
-youxox
 <img src="pic2.jpg" width="150px;">
-
+> youxox
 
 # 赞助💰
 本项目作者youxox现在还是个穷苦技校生...
