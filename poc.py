@@ -42,17 +42,14 @@ def poc1(target_url, proxy):
 
     try:
         response = requests.post(url=url_payload, data=body, headers=headers, proxies=proxies,timeout=timeout,verify=False)
-        # print("\033[93m[INFO]\033[0m" + url_payload)
         # 处理状态码颜色
         stcode = str(response.status_code)
         stcode2 = f"\033[92m{stcode}\033[0m"
         # 处理url颜色
-
         url2 = f"\033[90m{url_payload}\033[0m"
         if response.status_code == 200:
             # 打印请求的url
             print("\033[93m[INFO]\033[0m" + url2 + "  code: " + stcode2)
-
             response_text = response.text
             # 定义要匹配的关键字
             keywords = ["dns", "http"]
