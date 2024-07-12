@@ -4,5 +4,9 @@
 # 简介
   目前支持 蓝凌OA treexml.tmpl 远程命令执行漏洞检测
 
+# 帮助
+![help.png](help.png)
+
 # 示例
 ![p.png](p.png)
+
