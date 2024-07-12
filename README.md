@@ -19,6 +19,4 @@
 
 如果觉得对各位司辰有帮助 可以通过二维码赞助哦(>////<)
 
-联系 wx: huozhehaolei2024
-
 <img src=zanzhu.jpg>
