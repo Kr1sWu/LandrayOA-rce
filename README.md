@@ -4,12 +4,5 @@
 # 简介
   目前支持 蓝凌OA treexml.tmpl 远程命令执行漏洞检测
 
-# Help
-执行程序
-> python3 poc.py -u "target"
-
-参数
->  -h, --help 显示所有参数
-
 # 示例
 ![p.png](p.png)
