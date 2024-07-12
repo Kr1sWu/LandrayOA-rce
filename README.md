@@ -12,7 +12,7 @@
 
 # Author✨
 
-<img src="pic2.png" width="150px;">
+<img src="pic2.jpg" width="150px;">
 
 
 # 赞助💰
