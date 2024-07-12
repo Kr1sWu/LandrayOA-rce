@@ -11,11 +11,11 @@
 ![p.png](p.png)
 
 # Author✨
-
 <table>
   <tr>
     <td align="center"><img src="pic2.jpg" width="150px;" alt=""/><br /><sub><b>youXoX</b></sub><br />
   </tr>
+
 
 # 赞助💰
 本项目作者youXoX现在还是个穷苦技校生...
