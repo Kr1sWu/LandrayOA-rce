@@ -6,12 +6,11 @@
 > python3 poc.py -u "target"
 
 参数
-> options:
->  -h, --help            show this help message and exit
->  -u URL, --url URL     Target URL e.g., http://www.baidu.com
->  -p PROXY, --proxy PROXY
->                        Proxy URL e.g., http://127.0.0.1:8080
->  -l LIST, --list LIST  File containing a list of target URLs
+ options:
+  -h, --help           show params
+  -u URL, --url URL       "www.baidu.com"
+  -p PROXY, --proxy PROXY   127.0.0.1:8080
+  -l LIST, --list LIST  File containing a list of target URLs
 
 # 示例
 ![p.png](p.png)
