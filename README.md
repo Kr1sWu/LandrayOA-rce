@@ -9,7 +9,7 @@
 ![help.png](help.png)
 
 # 示例📄
-![p.png](p.png)
+![p.png](img.jpg)
 
 # Author✨
 <img src="pic2.jpg" width="100px;">
